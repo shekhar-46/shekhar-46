@@ -1,7 +1,7 @@
-[![MasterHead](https://raw.githubusercontent.com/gist/andreruffert/f14990306ff0c9b5e3ef01439e16555e/raw/cab4f3a1623ba0eb68d4472db029b86a294af388/%F0%9F%91%8B.gif)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chandra Shekhar Singh</h1>
 <h3 align="center">A passionate Competitive Programmer,DSA Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhar-46&label=Profile%20views&color=0e75b6&style=flat" alt="shekhar-46" /> </p>
 
